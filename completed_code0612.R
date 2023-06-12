@@ -1,3 +1,6 @@
+library(shiny)
+library(DT)
+
 # UI部分の定義
 ui <- fluidPage(
   titlePanel("心理統計ゼミ図書管理システム"),
